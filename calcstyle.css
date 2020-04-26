@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    border-style: outset;
+    width: 300px;
+    height:300px;
+}
+
+#screen
+{
+    background-color:papayawhip;
+    color:black;
+    width: 250px;
+}
+input{
+    background-color: darkblue;
+    color: darkgray;
+    width: 30px;
+    height:30px;
+}
+
+h2{
+    color: darkred;
+}
+form{
+    border: darkgreen;
+}
